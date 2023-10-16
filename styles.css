@@ -7,7 +7,7 @@
 
 
 body {
-  background-image: url("https://bronk.club/uploads/posts/2023-03/1677623152_bronk-club-p-kareliya-otkritki-vkontakte-73.jpg");
+  background-image: url('bg_image.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -17,7 +17,7 @@ body {
 }
 
 #back {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.3);
   width: 100vw;
 }
 
